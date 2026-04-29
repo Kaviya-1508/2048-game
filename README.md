@@ -7,6 +7,12 @@ A modern, fully responsive 2048 game built with **React** and **TypeScript**. Pl
 ![Vite](https://img.shields.io/badge/Vite-5.0-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+## 🚀 Live Demo
+
+**Play the game here:** [https://two-zero-four-eight.netlify.app](https://two-zero-four-eight.netlify.app)
+
+[![Netlify Status](https://img.shields.io/badge/Netlify-Deployed-success)](https://two-zero-four-eight.netlify.app)
+
 ## ✨ Features
 
 - 🎯 **Classic 2048 Gameplay** - Merge tiles to reach 2048
